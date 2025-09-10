@@ -1,5 +1,5 @@
 ## About Me
-I am a junior majoring in Statistics with a intended double major in Computer Science at UNC Chapel Hill and I have a strong passion for data science and software development. I’m actively exploring various fields within these fields, including algorithms, data structures, and data analysis. Through my coursework and projects, I’ve been developing my technical skills and expanding my knowledge in these areas.
+I am a junior double majoring in Statistics and Computer Science at UNC Chapel Hill and I have a strong passion for data science and software development. I’m actively exploring various fields within these fields, including algorithms, data structures, and data analysis. Through my coursework and projects, I’ve been developing my technical skills and expanding my knowledge in these areas.
 
 ## Skills
 
@@ -17,5 +17,4 @@ I am a junior majoring in Statistics with a intended double major in Computer Sc
 - Java: Applied object-oriented programming principles in class projects.
 - Git: Familiar with version control and collaboration on projects using GitHub.
 - Docker: Basic knowledge of containerization and using Docker for environment setup and deployment.
-- Pygame: Used for game development projects, such as during Hack NC.
 - R: Applied in statistical analysis and data visualization, including coursework in STOR 455.
