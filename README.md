@@ -9,8 +9,10 @@ I am a junior double majoring in Statistics and Computer Science at UNC Chapel H
 - COMP 211: Introduction to computer systems, covering topics such as assembly language and system-level programming.
 - COMP 290: Exploration of systems programming, including concepts such as system management, operating systems, and other useful tools in the worldof technology.
 - COMP 126: Introduction to web design and development, covering HTML5 CSS, JavaScript, and accessibility principles.
-- STOR 320: Introduction to statistics data analysis and modeling, utilizing libraries such as Pandas and Numpy.
+- STOR 320: Introduction to statistics data analysis and modeling, utilizing libraries such as Pandas, Numpy, and scikit-learn.
+- STOR 390: Database management and querying using SQL.
 - STOR 455: Methods of data analysis including cocepts such as two-sample comparisons and correlation utilizing R Studio.
+- INLs 523: Database management systems, including design, implementation, and optimization.
 
 ### Tools and Programming Languages
 - Python: Developed several projects, including a mini-game using Pygame (Hack NC project "Skeletal Skirmish"). 
@@ -18,3 +20,5 @@ I am a junior double majoring in Statistics and Computer Science at UNC Chapel H
 - Git: Familiar with version control and collaboration on projects using GitHub.
 - Docker: Basic knowledge of containerization and using Docker for environment setup and deployment.
 - R: Applied in statistical analysis and data visualization, including coursework in STOR 455.
+- HTML/CSS: Built responsive websites with attention to accessibility and usability principles.
+- SQL: Experienced in database querying, manipulation, and integration, including coursework in STOR 390 and INLS 523
