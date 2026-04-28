@@ -5,12 +5,16 @@ I am a junior double majoring in Statistics and Computer Science at UNC Chapel H
 - COMP 110: Introduction to Python and programming concepts, including variables, loops, functions, and object-oriented programming.
 - COMP 210: Focus on data structures and algorithms, including linked lists, trees, and sorting algorithms.
 - COMP 211: Introduction to computer systems, covering topics such as assembly language and system-level programming.
+- COMP 301: Foundations of Software Design, focused on object-oriented design patterns.
+- COMP 311: Computer Organization and System Fundamentals, covering hardware-software interfaces, memory hierarchy, and processor design.
 - COMP 290: Exploration of systems programming, including concepts such as system management, operating systems, and other useful tools in the worldof technology.
 - COMP 126: Introduction to web design and development, covering HTML5 CSS, JavaScript, and accessibility principles.
 - STOR 320: Introduction to statistics data analysis and modeling, utilizing libraries such as Pandas, Numpy, and scikit-learn.
 - STOR 390: Database management and querying using SQL.
+- STOR 415: Introduction to Optimization, exploring mathematical modeling, linear programming, and algorithms for solving large-scale decision problems.
 - STOR 455: Methods of data analysis including cocepts such as two-sample comparisons and correlation utilizing R Studio.
-- INLs 523: Database management systems, including design, implementation, and optimization.
+- STOR 565: Machine Learning, covering the implementation and theory behind supervised and unsupervised models, including neural networks.
+- INLS 523: Database management systems, including design, implementation, and optimization.
 
 ## Tools and Programming Languages
 - Python: Developed several projects, including a mini-game using Pygame (Hack NC project "Skeletal Skirmish"). 
@@ -20,6 +24,7 @@ I am a junior double majoring in Statistics and Computer Science at UNC Chapel H
 - R: Applied in statistical analysis and data visualization, including coursework in STOR 455.
 - HTML/CSS: Built responsive websites with attention to accessibility and usability principles.
 - SQL: Experienced in database querying, manipulation, and integration, including coursework in STOR 390 and INLS 523
+- LaTex: Utilized for writing technical documents and academic assignments, ensuring professional formatting for complex mathematical notation.
 
 ## Projects  
 
